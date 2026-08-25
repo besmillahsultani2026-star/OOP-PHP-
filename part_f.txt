@@ -1,0 +1,8 @@
+Question 1 : Person;
+Question 2 : Student;
+Question 3 : extends;
+Question 4 : Person;
+Question 5 : Yes;
+Question 6 : Because the Student class inherits from the Person class.
+		 The introduce() method is inherited from the parent class Person,
+		 so the $studentl object can use it.
